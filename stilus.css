@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(16, 29, 90);
+
+}
+table, th, td {
+    border: solid 3px rgb(0, 0, 0);
+}
+th, td {
+    border-radius: 8px;
+}
